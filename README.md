@@ -4,7 +4,7 @@
 
 
 ![Basotho Wool Exports Header](docs/assets/basothoWoolAnalysis.jpg)
-*Caption: Overview of Lesotho's wool export volumes.*
+
 
 ## Project Overview
 This project presents an end-to-end Exploratory Data Analysis (EDA) of Basotho wool export data spanning from 2010 to 2024. The objective of this analysis is to uncover trends in export volumes, identify key seasonal patterns, and provide actionable insights into the agricultural economic output of Lesotho's wool industry over a 14-year period.
